@@ -2,4 +2,4 @@
 
 Fiction books dataset is located in `/dataset` 
 
-The `emotion_flow` dataset if from https://github.com/sjmaharjan/emotion_flow
+The `emotion_flow` dataset is from https://github.com/sjmaharjan/emotion_flow
